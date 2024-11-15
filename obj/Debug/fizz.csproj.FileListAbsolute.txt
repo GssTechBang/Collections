@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Rockpaper\fizz\bin\Debug\fizz.exe.config
+C:\Users\preethu\source\repos\Rockpaper\fizz\bin\Debug\fizz.exe
+C:\Users\preethu\source\repos\Rockpaper\fizz\bin\Debug\fizz.pdb
+C:\Users\preethu\source\repos\Rockpaper\fizz\obj\Debug\fizz.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Rockpaper\fizz\obj\Debug\fizz.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Rockpaper\fizz\obj\Debug\fizz.exe
+C:\Users\preethu\source\repos\Rockpaper\fizz\obj\Debug\fizz.pdb
