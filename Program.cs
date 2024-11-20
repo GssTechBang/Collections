@@ -10,7 +10,7 @@ namespace fizz111
         {
             
             {
-                if(m % 3 == 0 && i%5 == 0)
+                if(m % 3 == 0 && hkkj%5 == 0)
                 {
                     Console.Write("fizzbuzz" + ",");
                 }
